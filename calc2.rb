@@ -10,3 +10,6 @@ def print_header
 	puts "Welcome to Ruby Calculator"
 	puts "--------"
 end
+=====
+def run
+end
